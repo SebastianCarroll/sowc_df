@@ -1,0 +1,205 @@
+"","country","region","home_w_fam_v_outside_w_friends","population","freq"
+"1","Afghanistan","South Asia","Other",35530081,7
+"2","Afghanistan","South Asia","By myself most of the time",35530081,10
+"3","Afghanistan","South Asia","Outside with friends",35530081,18
+"4","Afghanistan","South Asia","Home with family",35530081,89
+"5","Afghanistan","South Asia",NA,35530081,47
+"6","Algeria","Middle East & North Africa","Other",41318142,7
+"7","Algeria","Middle East & North Africa","By myself most of the time",41318142,23
+"8","Algeria","Middle East & North Africa","Outside with friends",41318142,14
+"9","Algeria","Middle East & North Africa","Home with family",41318142,55
+"10","Algeria","Middle East & North Africa",NA,41318142,67
+"11","Bangladesh","South Asia","At home, with the family",164669751,183
+"12","Bangladesh","South Asia","Eat mostly alone",164669751,64
+"13","Bangladesh","South Asia","Other",164669751,34
+"14","Bangladesh","South Asia","Outside, with friends",164669751,51
+"15","Bangladesh","South Asia","By myself most of the time",164669751,30
+"16","Bangladesh","South Asia","Outside with friends",164669751,32
+"17","Bangladesh","South Asia","Home with family",164669751,134
+"18","Bangladesh","South Asia",NA,164669751,155
+"19","Belize","Latin America & Caribbean ","Other",374681,138
+"20","Belize","Latin America & Caribbean ","By myself most of the time",374681,157
+"21","Belize","Latin America & Caribbean ","Eat at home with family",374681,618
+"22","Belize","Latin America & Caribbean ","Outside with friends",374681,103
+"23","Belize","Latin America & Caribbean ","Home with family",374681,3
+"24","Belize","Latin America & Caribbean ",NA,374681,47
+"25","Brazil","Latin America & Caribbean ","Other",209288278,684
+"26","Brazil","Latin America & Caribbean ","By myself most of the time",209288278,1374
+"27","Brazil","Latin America & Caribbean ","Eat at home with family",209288278,6645
+"28","Brazil","Latin America & Caribbean ","Outside with friends",209288278,1009
+"29","Brazil","Latin America & Caribbean ","Home with family",209288278,1
+"30","Brazil","Latin America & Caribbean ",NA,209288278,2382
+"31","Burkina Faso","Sub-Saharan Africa ","Other",19193382,65
+"32","Burkina Faso","Sub-Saharan Africa ","By myself most of the time",19193382,407
+"33","Burkina Faso","Sub-Saharan Africa ","Eat at home with family",19193382,1398
+"34","Burkina Faso","Sub-Saharan Africa ","Outside with friends",19193382,226
+"35","Burkina Faso","Sub-Saharan Africa ","Home with family",19193382,4
+"36","Burkina Faso","Sub-Saharan Africa ",NA,19193382,728
+"37","Cameroon","Sub-Saharan Africa ","Other",24053727,176
+"38","Cameroon","Sub-Saharan Africa ","By myself most of the time",24053727,570
+"39","Cameroon","Sub-Saharan Africa ","Eat at home with family",24053727,1255
+"40","Cameroon","Sub-Saharan Africa ","Outside with friends",24053727,139
+"41","Cameroon","Sub-Saharan Africa ","Home with family",24053727,5
+"42","Cameroon","Sub-Saharan Africa ",NA,24053727,620
+"43","Central African Republic","Sub-Saharan Africa ","Other",4659080,30
+"44","Central African Republic","Sub-Saharan Africa ","By myself most of the time",4659080,65
+"45","Central African Republic","Sub-Saharan Africa ","Eat at home with family",4659080,619
+"46","Central African Republic","Sub-Saharan Africa ","Outside with friends",4659080,51
+"47","Central African Republic","Sub-Saharan Africa ",NA,4659080,164
+"48","Cote d'Ivoire","Sub-Saharan Africa ","Other",24294750,265
+"49","Cote d'Ivoire","Sub-Saharan Africa ","By myself most of the time",24294750,1150
+"50","Cote d'Ivoire","Sub-Saharan Africa ","Eat at home with family",24294750,3191
+"51","Cote d'Ivoire","Sub-Saharan Africa ","Outside with friends",24294750,544
+"52","Cote d'Ivoire","Sub-Saharan Africa ","Home with family",24294750,12
+"53","Cote d'Ivoire","Sub-Saharan Africa ",NA,24294750,791
+"54","Dominican Republic","Latin America & Caribbean ","Other",10766998,38
+"55","Dominican Republic","Latin America & Caribbean ","By myself most of the time",10766998,85
+"56","Dominican Republic","Latin America & Caribbean ","Outside with friends",10766998,55
+"57","Dominican Republic","Latin America & Caribbean ","Home with family",10766998,229
+"58","Dominican Republic","Latin America & Caribbean ",NA,10766998,238
+"59","El Salvador","Latin America & Caribbean ","Other",6377853,35
+"60","El Salvador","Latin America & Caribbean ","By myself most of the time",6377853,6
+"61","El Salvador","Latin America & Caribbean ","Eat at home with family",6377853,280
+"62","El Salvador","Latin America & Caribbean ","Outside with friends",6377853,157
+"63","El Salvador","Latin America & Caribbean ","Home with family",6377853,8
+"64","El Salvador","Latin America & Caribbean ",NA,6377853,80
+"65","Eswatini","Sub-Saharan Africa ","Other",1367254,17
+"66","Eswatini","Sub-Saharan Africa ","By myself most of the time",1367254,211
+"67","Eswatini","Sub-Saharan Africa ","Eat at home with family",1367254,480
+"68","Eswatini","Sub-Saharan Africa ","Outside with friends",1367254,55
+"69","Eswatini","Sub-Saharan Africa ","Home with family",1367254,3
+"70","Eswatini","Sub-Saharan Africa ",NA,1367254,88
+"71","France","Europe & Central Asia","Other",67118648,86
+"72","France","Europe & Central Asia","By myself most of the time",67118648,260
+"73","France","Europe & Central Asia","Eat at home with family",67118648,555
+"74","France","Europe & Central Asia","Outside with friends",67118648,103
+"75","France","Europe & Central Asia","No Response",67118648,272
+"76","France","Europe & Central Asia","Home with family",67118648,10
+"77","France","Europe & Central Asia",NA,67118648,11
+"78","Ghana","Sub-Saharan Africa ","Other",28833629,67
+"79","Ghana","Sub-Saharan Africa ","By myself most of the time",28833629,925
+"80","Ghana","Sub-Saharan Africa ","Eat at home with family",28833629,1109
+"81","Ghana","Sub-Saharan Africa ","Outside with friends",28833629,209
+"82","Ghana","Sub-Saharan Africa ","Home with family",28833629,38
+"83","Ghana","Sub-Saharan Africa ",NA,28833629,475
+"84","Haiti","Latin America & Caribbean ","Other",10981229,21
+"85","Haiti","Latin America & Caribbean ","By myself most of the time",10981229,51
+"86","Haiti","Latin America & Caribbean ","Outside with friends",10981229,30
+"87","Haiti","Latin America & Caribbean ","Home with family",10981229,119
+"88","Haiti","Latin America & Caribbean ",NA,10981229,78
+"89","India","South Asia","Other",1339180127,9
+"90","India","South Asia","By myself most of the time",1339180127,19
+"91","India","South Asia","Outside with friends",1339180127,21
+"92","India","South Asia","Home with family",1339180127,89
+"93","India","South Asia",NA,1339180127,38
+"94","Indonesia","East Asia & Pacific","Other",263991379,188
+"95","Indonesia","East Asia & Pacific","By myself most of the time",263991379,966
+"96","Indonesia","East Asia & Pacific","Eat at home with family",263991379,2677
+"97","Indonesia","East Asia & Pacific","Outside with friends",263991379,791
+"98","Indonesia","East Asia & Pacific","Home with family",263991379,7
+"99","Indonesia","East Asia & Pacific",NA,263991379,114
+"100","Kenya","Sub-Saharan Africa ","Other",49699862,8
+"101","Kenya","Sub-Saharan Africa ","By myself most of the time",49699862,78
+"102","Kenya","Sub-Saharan Africa ","Outside with friends",49699862,36
+"103","Kenya","Sub-Saharan Africa ","Home with family",49699862,101
+"104","Kenya","Sub-Saharan Africa ",NA,49699862,72
+"105","Liberia","Sub-Saharan Africa ","Other",4731906,145
+"106","Liberia","Sub-Saharan Africa ","By myself most of the time",4731906,1076
+"107","Liberia","Sub-Saharan Africa ","Eat at home with family",4731906,1909
+"108","Liberia","Sub-Saharan Africa ","Outside with friends",4731906,629
+"109","Liberia","Sub-Saharan Africa ","Home with family",4731906,6
+"110","Liberia","Sub-Saharan Africa ",NA,4731906,385
+"111","Malawi","Sub-Saharan Africa ","Other",18622104,950
+"112","Malawi","Sub-Saharan Africa ","By myself most of the time",18622104,1966
+"113","Malawi","Sub-Saharan Africa ","Eat at home with family",18622104,41
+"114","Malawi","Sub-Saharan Africa ","Outside with friends",18622104,1542
+"115","Malawi","Sub-Saharan Africa ","Home with family",18622104,5
+"116","Malawi","Sub-Saharan Africa ",NA,18622104,22806
+"117","Mali","Sub-Saharan Africa ","Other",18541980,110
+"118","Mali","Sub-Saharan Africa ","By myself most of the time",18541980,431
+"119","Mali","Sub-Saharan Africa ","Eat at home with family",18541980,2620
+"120","Mali","Sub-Saharan Africa ","Outside with friends",18541980,230
+"121","Mali","Sub-Saharan Africa ","Home with family",18541980,6
+"122","Mali","Sub-Saharan Africa ",NA,18541980,361
+"123","Mexico","Latin America & Caribbean ","Other",129163276,15
+"124","Mexico","Latin America & Caribbean ","By myself most of the time",129163276,85
+"125","Mexico","Latin America & Caribbean ","Eat at home with family",129163276,196
+"126","Mexico","Latin America & Caribbean ","Outside with friends",129163276,31
+"127","Mexico","Latin America & Caribbean ","Home with family",129163276,15
+"128","Mexico","Latin America & Caribbean ","",129163276,46
+"129","Mexico","Latin America & Caribbean ",NA,129163276,9
+"130","Moldova","Europe & Central Asia","Other",3549750,28
+"131","Moldova","Europe & Central Asia","By myself most of the time",3549750,209
+"132","Moldova","Europe & Central Asia","Eat at home with family",3549750,494
+"133","Moldova","Europe & Central Asia","Outside with friends",3549750,31
+"134","Moldova","Europe & Central Asia","Home with family",3549750,3
+"135","Moldova","Europe & Central Asia",NA,3549750,77
+"136","Myanmar","East Asia & Pacific","Other",53370609,259
+"137","Myanmar","East Asia & Pacific","By myself most of the time",53370609,1476
+"138","Myanmar","East Asia & Pacific","Eat at home with family",53370609,1481
+"139","Myanmar","East Asia & Pacific","Outside with friends",53370609,936
+"140","Myanmar","East Asia & Pacific","Home with family",53370609,8
+"141","Myanmar","East Asia & Pacific",NA,53370609,172
+"142","Nigeria","Sub-Saharan Africa ","Other",190886311,512
+"143","Nigeria","Sub-Saharan Africa ","By myself most of the time",190886311,6061
+"144","Nigeria","Sub-Saharan Africa ","Eat at home with family",190886311,11318
+"145","Nigeria","Sub-Saharan Africa ","Outside with friends",190886311,1252
+"146","Nigeria","Sub-Saharan Africa ","Home with family",190886311,101
+"147","Nigeria","Sub-Saharan Africa ",NA,190886311,9118
+"148","Philippines","East Asia & Pacific","Other",104918090,18
+"149","Philippines","East Asia & Pacific","By myself most of the time",104918090,104
+"150","Philippines","East Asia & Pacific","Outside with friends",104918090,51
+"151","Philippines","East Asia & Pacific","Home with family",104918090,228
+"152","Philippines","East Asia & Pacific",NA,104918090,102
+"153","Somalia","Sub-Saharan Africa ","Other",14742523,6
+"154","Somalia","Sub-Saharan Africa ","By myself most of the time",14742523,16
+"155","Somalia","Sub-Saharan Africa ","Outside with friends",14742523,15
+"156","Somalia","Sub-Saharan Africa ","Home with family",14742523,64
+"157","Somalia","Sub-Saharan Africa ",NA,14742523,26
+"158","South Africa","Sub-Saharan Africa ","Other",56717156,9
+"159","South Africa","Sub-Saharan Africa ","By myself most of the time",56717156,44
+"160","South Africa","Sub-Saharan Africa ","Eat at home with family",56717156,65
+"161","South Africa","Sub-Saharan Africa ","Outside with friends",56717156,26
+"162","South Africa","Sub-Saharan Africa ","Home with family",56717156,16
+"163","South Africa","Sub-Saharan Africa ","",56717156,12
+"164","South Africa","Sub-Saharan Africa ",NA,56717156,8
+"165","Syrian Arab Republic","Middle East & North Africa","Other",18269868,32
+"166","Syrian Arab Republic","Middle East & North Africa","By myself most of the time",18269868,80
+"167","Syrian Arab Republic","Middle East & North Africa","Eat at home with family",18269868,240
+"168","Syrian Arab Republic","Middle East & North Africa","Outside with friends",18269868,51
+"169","Syrian Arab Republic","Middle East & North Africa","Home with family",18269868,26
+"170","Syrian Arab Republic","Middle East & North Africa",NA,18269868,49
+"171","Togo","Sub-Saharan Africa ","Other",7797694,2
+"172","Togo","Sub-Saharan Africa ","By myself most of the time",7797694,37
+"173","Togo","Sub-Saharan Africa ","Outside with friends",7797694,10
+"174","Togo","Sub-Saharan Africa ","Home with family",7797694,38
+"175","Togo","Sub-Saharan Africa ",NA,7797694,18
+"176","Turkey","Europe & Central Asia","Other",80745020,42
+"177","Turkey","Europe & Central Asia","By myself most of the time",80745020,54
+"178","Turkey","Europe & Central Asia","Outside with friends",80745020,11
+"179","Turkey","Europe & Central Asia","Home with family",80745020,64
+"180","Turkey","Europe & Central Asia",NA,80745020,54
+"181","Ukraine","Europe & Central Asia","Other",44831159,164
+"182","Ukraine","Europe & Central Asia","By myself most of the time",44831159,2443
+"183","Ukraine","Europe & Central Asia","Eat at home with family",44831159,2711
+"184","Ukraine","Europe & Central Asia","Outside with friends",44831159,1099
+"185","Ukraine","Europe & Central Asia","Home with family",44831159,13
+"186","Ukraine","Europe & Central Asia",NA,44831159,352
+"187","United Kingdom","Europe & Central Asia","Other",66022273,14
+"188","United Kingdom","Europe & Central Asia","By myself most of the time",66022273,58
+"189","United Kingdom","Europe & Central Asia","Eat at home with family",66022273,61
+"190","United Kingdom","Europe & Central Asia","Outside with friends",66022273,16
+"191","United Kingdom","Europe & Central Asia","Home with family",66022273,33
+"192","United Kingdom","Europe & Central Asia",NA,66022273,39
+"193","Vietnam","East Asia & Pacific","Other",95540800,192
+"194","Vietnam","East Asia & Pacific","By myself most of the time",95540800,301
+"195","Vietnam","East Asia & Pacific","Eat at home with family",95540800,2306
+"196","Vietnam","East Asia & Pacific","Outside with friends",95540800,109
+"197","Vietnam","East Asia & Pacific","Home with family",95540800,5
+"198","Vietnam","East Asia & Pacific",NA,95540800,177
+"199","Zimbabwe","Sub-Saharan Africa ","Other",16529904,5
+"200","Zimbabwe","Sub-Saharan Africa ","By myself most of the time",16529904,48
+"201","Zimbabwe","Sub-Saharan Africa ","Eat at home with family",16529904,152
+"202","Zimbabwe","Sub-Saharan Africa ","Outside with friends",16529904,14
+"203","Zimbabwe","Sub-Saharan Africa ","Home with family",16529904,5
+"204","Zimbabwe","Sub-Saharan Africa ",NA,16529904,102
