@@ -16,17 +16,28 @@ wdye <- read.csv('where_do_you_eat.csv')
 # group it by country then create a variable called freq_perc which is the percentage of each answer by country 
 #(sum of all answers/ country = 100)
 country_group <- group_by(wdye, country)
-wdye_with_freq_decimal <- dplyr::mutate(country_group, freq_deci = freq/sum(freq))
-wdye_with_freq_weight <- dplyr::mutate(wdye_with_freq_decimal, freq_perc = freq_deci*100)
-with_pop_weight <- dplyr::mutate(wdye_with_freq_weight, population_weight = ((population/sum(population))*100))
+wdye_with_freq_decimal <- dplyr::mutate(country_group, 
+                                        freq_deci = freq/sum(freq), 
+                                        freq_perc = freq_deci*100,
+                                        pop_deci = population/sum(population),
+                                        pop_freq = pop_deci*100
+                                        )
 
-wdye_weight <- wdye %>% 
+wdye_weight <- wdye %>%
+  mutate(
+    pop_deci = population/sum(population),
+    pop_percent = pop_deci*100
+  ) %>%
   group_by(country) %>%
-  dplyr::mutate(freq_perc = freq/sum(freq)*100)
+  mutate(
+    freq_deci = freq/sum(freq), 
+    freq_percent = freq_deci*100
+  ) 
+  
 
 #group by country and determine the weight by country population as a percentage of total population
 #FOR SOME FUCKING REASON SO MANY ARE THE SAME NUMBER AND I CAN"T FIX IT
-wdye_weight <- wdye_weight %>% dplyr::group_by(country) %>% dplyr::mutate(weights = (population/sum(population)*100))
+#wdye_pop_weight <- wdye %>% dplyr::mutate(weights = (population/sum(population)*100))
 
 ##I then use freq_perc as the scores and weights as the weights to get weighted means. These should be different 
 #values for each country that I then average together that give me average rates for each answer by region.
